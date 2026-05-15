@@ -29,10 +29,6 @@ A simple and responsive Add to Cart functionality built using HTML, CSS, and Jav
 
 Add screenshots or GIFs of your project here.
 
-Example:
-
-![Project Preview](preview.png)
-
 ## ⚙️ How to Run the Project
 
 1. Clone the repository
